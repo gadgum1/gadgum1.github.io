@@ -1,7 +1,7 @@
 HOST: https://gomelgruzchic.tk
 
 User-agent: Yandex
-Allow
+Allow: /
 
 
 
