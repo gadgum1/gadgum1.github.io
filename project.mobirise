@@ -36,15 +36,19 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 11,
+    "uniqCompNum": 12,
     "versionPublish": "4.8.8",
     "screenshot": "screenshot.png",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsText": "HOST: https://gomelgruzchic.tk\n\nUser-agent: Yandex\nAllow\n\n\n\n",
     "robotsSwitcher": "on",
-    "siteUrl": "",
+    "siteUrl": "https://gomelgruzchic.tk",
     "sitemapSwitcherAuto": "on",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
